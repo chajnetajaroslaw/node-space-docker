@@ -1,0 +1,92 @@
+{
+    "trivia": [
+      {
+        "question": "What is the largest planet in our solar system?",
+        "answer": "Jupiter"
+      },
+      {
+        "question": "Which planet has the most moons?",
+        "answer": "Jupiter"
+      },
+      {
+        "question": "What is the closest star to Earth?",
+        "answer": "The Sun"
+      },
+      {
+        "question": "What is the brightest star in the night sky?",
+        "answer": "Sirius"
+      },
+      {
+        "question": "What is the name of our galaxy?",
+        "answer": "The Milky Way"
+      },
+      {
+        "question": "What is the largest moon in the solar system?",
+        "answer": "Ganymede (a moon of Jupiter)"
+      },
+      {
+        "question": "What is a light-year?",
+        "answer": "The distance that light travels in one year"
+      },
+      {
+        "question": "What is a black hole?",
+        "answer": "A region of spacetime exhibiting gravitational acceleration so strong that nothing—no particles or even electromagnetic radiation such as light—can escape from it"
+      },
+      {
+        "question": "How old is the universe?",
+        "answer": "Approximately 13.8 billion years"
+      },
+      {
+        "question": "What is the name of the first satellite launched into space?",
+        "answer": "Sputnik 1"
+      },
+      {
+        "question": "What is the process by which stars produce energy?",
+        "answer": "Nuclear fusion"
+      },
+      {
+        "question": "What is the phenomenon that causes the appearance of a ring around the Sun or Moon?",
+        "answer": "A halo"
+      },
+      {
+        "question": "What is the largest structure in the universe?",
+        "answer": "The Great Wall, a vast cosmic filament"
+      },
+      {
+        "question": "What causes the different seasons on Earth?",
+        "answer": "The tilt of Earth's axis"
+      },
+      {
+        "question": "What is a supernova?",
+        "answer": "An explosion that occurs at the end of a massive star's life cycle"
+      },
+      {
+        "question": "What is the name of the first American astronaut to orbit the Earth?",
+        "answer": "John Glenn"
+      },
+      {
+        "question": "What is the Hubble Space Telescope?",
+        "answer": "A space telescope that was launched into low Earth orbit in 1990 and remains in operation"
+      },
+      {
+        "question": "What is the approximate diameter of the Sun?",
+        "answer": "About 1.4 million kilometers"
+      },
+      {
+        "question": "What is the name of the rover that successfully landed on Mars in 2021?",
+        "answer": "Perseverance"
+      },
+      {
+        "question": "What is the name of the first human to walk on the Moon?",
+        "answer": "Neil Armstrong"
+      },
+      {
+        "question": "What is a comet?",
+        "answer": "A celestial object composed of ice, dust, and rocky particles"
+      },
+      {
+        "question": "What is the speed of light in a vacuum?",
+        "answer": "Approximately 299,792 kilometers per second"
+      }
+    ]
+}
