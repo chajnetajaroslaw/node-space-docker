@@ -32,4 +32,4 @@ function randomTrivia() {
 //     });
 
 
-export de
+export default randomTrivia;
