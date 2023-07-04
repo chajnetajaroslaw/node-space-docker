@@ -16,7 +16,7 @@ function randomTrivia() {
 
             parsedTrivias = JSON.parse(data);
 
-            let randomTrivia = random.int(0, parsedTrivias.trivia.length);
+            let randomTrivia = random.int(0, parsedTrivias.trivia.length - 1);
 
             resolve(parsedTrivias.trivia[randomTrivia]);
         });

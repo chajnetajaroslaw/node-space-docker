@@ -14,10 +14,9 @@ app.get('/', (req, res) => {
 
     randomTrivia().then((trivia) => {
         res.render('page', {
-            title: 'Hello World',
             question: trivia.question,
             answer: trivia.answer
-            
+
 
         })
     })
