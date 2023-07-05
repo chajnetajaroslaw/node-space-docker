@@ -37,7 +37,7 @@ app.get('/', (req, res) => {
 })
 
 app.listen(port, () => {
-    console.log('Example app listening on port 3000! 🧑‍🚀')
+    console.log(`Example app listening on port ${port}! 🧑‍🚀`)
     //give clickable link 
     console.log(`http://localhost:${port}`)
 })
